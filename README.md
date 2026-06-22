@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arjun R K — Portfolio
 
 Next.js portfolio for a Final Year B.Tech IT Student | AI Intern. 
@@ -30,3 +31,47 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - `/src/components/sections` - Core UI sections.
 - `/src/components/ui` - Reusable layout components.
 - `/public` - Static assets and project screenshots.
+=======
+# Arjun R K Portfolio
+
+Personal portfolio website showcasing my experience, projects, technical skills, and learning journey in Data Analytics, AI/ML, and Software Development.
+
+## Live Website
+
+https://axarjun.me
+
+## About
+
+Final Year B.Tech Information Technology student at SRM Institute of Science and Technology and AI Intern. This portfolio highlights my work in:
+
+* Data Analytics
+* Machine Learning
+* Computer Vision
+* Large Language Models (LLMs)
+* Backend Development
+
+## Featured Projects
+
+* Telco Customer Churn Intelligence Platform
+* Enterprise Fraud Risk Pipeline
+* Worker Safety Detection System
+* AI Contract Analyzer
+* Retail Data Warehouse & Analytics Pipeline
+
+## Tech Stack
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+
+## Contact
+
+* Portfolio: https://axarjun.me
+* GitHub: https://github.com/AxArjun
+* LinkedIn: Add your LinkedIn URL
+
+## License
+
+MIT License
+>>>>>>> 8e81b13501ddea5fc981694eb06ee84ac57e04d9
